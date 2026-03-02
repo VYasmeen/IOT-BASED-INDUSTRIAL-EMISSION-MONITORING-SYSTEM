@@ -1,7 +1,6 @@
 # IOT Based Industrial Emission Monitoring System
 
 An IoT-based system designed to monitor industrial air pollution and harmful gas emissions in real time. This project helps detect environmental hazards early and enables industries to take preventive action using sensor-driven monitoring.
-
 ---
 
 ## Overview
@@ -9,8 +8,6 @@ An IoT-based system designed to monitor industrial air pollution and harmful gas
 Industrial emissions are a major contributor to environmental pollution and health hazards. This project provides a smart monitoring solution using IoT technologies to detect harmful gases and track emission levels continuously.
 
 The system collects real-time data from environmental sensors and displays the information for monitoring and analysis. It can be extended to send alerts when pollution levels exceed safe thresholds.
-
----
 
 ## Objectives
 
@@ -101,7 +98,8 @@ If emission levels rise beyond safe limits, the system can be extended to trigge
 
 ## Author
 
-**Yasmeen*
+*Yasmeen*
+
 IoT | Data Engineering | AI Enthusiast
 
 ---
